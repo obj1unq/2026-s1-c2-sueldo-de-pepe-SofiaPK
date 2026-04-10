@@ -4,3 +4,8 @@ object gerente {
 }
 
 // agregar cadete
+object cadete {
+	method neto() {
+	  return 20000
+	}
+}
